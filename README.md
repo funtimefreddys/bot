@@ -1,7 +1,7 @@
 
 
 
-<img width="1920" height="1080" alt="Screenshot (282)" src="https://github.com/user-attachments/assets/03e4fed4-8c4c-4850-a950-fbf99c4fadd9" />
+<img width="1920" height="1080" alt="Screenshot (282)" src="https://github.com/user-attachments/assets/03e4fed4-8c4c-4850-a950-fbf99c4fadd9"/>
 
 
 
