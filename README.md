@@ -122,5 +122,5 @@ MIT License
 
 # อาจจะมีมาเรื่อยๆนะครับ มีบัคบ้างสามารถนำไปเเก้ไขรึดัด เเปลงได้ ให้เครคิตด้วยนะครับ 
 ## ห้ามนำไฟล์ไปขายเอากำไรเด็ดขาด 
-# Youtube : GuskungTH
-# Facebook : Nipitpon Muangsung 
+Youtube : GuskungTH
+Facebook : Nipitpon Muangsung 
